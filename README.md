@@ -1,6 +1,8 @@
 # LEAF 🍃
 
-A simulator for modeling Large Energy-Aware Fog computing environments.
+A simulator for modeling Large Energy-Aware Fog computing environments. LEAF is now maintained at:
+- Java version (functional but no further development): https://github.com/dos-group/leaf-java
+- Python version (actively maintained): https://github.com/dos-group/leaf
 
 <p align="center">
   <img src="/images/fog4_infrastructure.svg">
